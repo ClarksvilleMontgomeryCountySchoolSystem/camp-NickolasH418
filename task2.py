@@ -13,7 +13,7 @@ from data import first, last, birth, days, p_first, p_last, phone, street, city,
 
 
 # birth
-birth = int(first)
+birth = int(birth)
 
 # days
 days = int(days)
